@@ -1,5 +1,6 @@
 /* Gulp. Гайд для новичков  *  https://thegazer.ru/gajd-po-gulp/
 *  https://webformyself.com/gulp-dlya-nachinayushhix/    *   http://www.creative-seo.ru/blog/gulp-dlya-nachinayushchih/
+*  https://toster.ru/q/594171
 */
 const gulp = require('gulp');
 const plugins = require('gulp-load-plugins')();
