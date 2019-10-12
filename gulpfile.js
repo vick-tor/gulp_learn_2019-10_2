@@ -8,6 +8,7 @@ const del = require('del');
 
 //ТЕМА  -  1.копирование и удаление фалов,  2.составление ПУТЕЙ
 
+
 var path = {
     delfile:{ del:'dist/**' },
     js:{
